@@ -11,3 +11,5 @@ I have solution :
 3. paste your token in
 4. now login successful
 5. go back to previous window and publish your repository
+
+You will be okay after these steps
